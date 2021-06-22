@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    background-color:cornflowerblue;
+    flex-direction: column;
+    font-family: 'Open Sans', serif;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+form{
+    
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    border-radius: 10px;
+    border-color: white;
+}
+
+h1{
+   
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+input{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-weight: 300;  
+    size: 15px;
+}
+
+
+
+
+
+
+.placeholder{
+    text-align: center;
+}
