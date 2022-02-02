@@ -1,4 +1,4 @@
-# login-logoff-register
+# Login-Page-Prototype
  Trabalho bimestral desenvolvido para a matéria de Laboratório de Sistemas, ministrado pelo professor Leandro Martins. 
  
  Demonstração de insert, delete e update, através de um modelo de tela de login. 
